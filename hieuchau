@@ -6,7 +6,12 @@ Second line.
 This is line in newbranchv1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is Shailesh
+=======
+
+This is HieuChau v2.
+>>>>>>> 0abe44a7aeb51b48b7927b4684813611bbbee85e
 =======
 
 This is HieuChau v2.
